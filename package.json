@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "api": "hai-server --watch todos.json" 
+    "api": "hai-server --watch todos.json --port 8000",
+    "start": "lite-server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "hai-server": "^0.0.4"
+    "hai-server": "^0.0.4",
+    "lite-server": "^2.6.1"
   }
 }
