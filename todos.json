@@ -1,0 +1,8 @@
+{
+    "todos": [
+        { "id": 1, "name": "Angol tanulás", "ready": true },
+        { "id": 2, "name": "Java tanulás", "ready": false },
+        { "id": 3, "name": "C# tanulás", "ready": false },
+        { "id": 4, "name": "C tanulás", "ready": false }
+    ]
+}
